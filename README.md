@@ -30,11 +30,10 @@ I defined the data path from my local machine to test the code.Because I couldn'
 - Initialized the parameters form the input
 - Made weights and biases
 - I have wriiten down the loss functions SQ and CLE
-- 
-
-### Training Model
-- Trained the model
-- set the loss function
+- I have written optimizers adam,gd, momentum descent and nag descent
+- I have also written activation functions sigmoid and tanh
+- functions for saving model, generating log files and submission file are also written 
+###### The code is well-commented itself for your reference
 
 ### Calling main
 - taking bash input from argparse and making the network using those parameters
